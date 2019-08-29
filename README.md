@@ -3,6 +3,8 @@
 ### ExpoFontProvider
 Example usage:
 ```tsx
+import { ExpoFontProvider } from 'coreline-react-native-utils';
+ 
 // somewhere in the root of your tsx file
 // note that it HAS TO be the root of a file so that fonts can be picked up by the bundler
 const fonts = {
