@@ -1,0 +1,21 @@
+{
+  "name": "coreline-react-native-utils",
+  "version": "0.0.1",
+  "description": "Repository containing custom utility functions commonly used in CoreLine's react native projects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Coreline Agency",
+  "license": "MIT",
+  "peerDependencies": {
+    "expo": "*",
+    "expo-font": "*",
+    "react": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikatun/mapix"
+  }
+}
